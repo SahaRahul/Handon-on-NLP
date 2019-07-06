@@ -14,3 +14,7 @@ https://www.youtube.com/watch?v=0lpQludiI-0
 
 
 https://cran.r-project.org/web/packages/corpus/vignettes/stemmer.html
+
+
+### How to Build a Text Mining, Machine Learning Document Classification System in R!
+https://www.youtube.com/watch?v=j1V2McKbkLo
