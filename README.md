@@ -11,3 +11,6 @@ https://cs.nyu.edu/grishman/jet/guide/PennPOS
 
 R and OpenNLP for Natural Language Processing NLP - Part 2
 https://www.youtube.com/watch?v=0lpQludiI-0
+
+
+https://cran.r-project.org/web/packages/corpus/vignettes/stemmer.html
