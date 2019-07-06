@@ -18,3 +18,10 @@ https://cran.r-project.org/web/packages/corpus/vignettes/stemmer.html
 
 ### How to Build a Text Mining, Machine Learning Document Classification System in R!
 https://www.youtube.com/watch?v=j1V2McKbkLo
+
+
+### Text Mining with R - A Tidy Approach
+Julia Silge and David Robinson
+2019-05-16
+
+https://www.tidytextmining.com/index.html
