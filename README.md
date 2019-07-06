@@ -7,3 +7,5 @@ https://cran.r-project.org/web/packages/openNLP/openNLP.pdf
 
 http://opennlp.sourceforge.net/models-1.5/
 
+https://cs.nyu.edu/grishman/jet/guide/PennPOS
+
